@@ -187,6 +187,7 @@
 - [Affinity Photo](https://affinity.serif.com/en-us/photo/) - Raster image design tool, possible Adobe Photoshop alternative.
 - [GifCapture](https://github.com/onmyway133/GifCapture) - Record GIF screencasts. [![Open-Source Software][OSS Icon]](https://github.com/onmyway133/GifCapture)
 - [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - Capture and share GIFs on the desktop. ![Freeware][Freeware Icon]
+- [IconVectors](https://iconvectors.io/) - SVG icon editor for developers with live code previews and framework exports.
 - [Image2icon](http://www.img2icnsapp.com) - Create and personalize icons from your pictures. ![Freeware][Freeware Icon]
 - [macSVG](https://macsvg.org/) - Design and edit SVG content for web, mobile, and animation. [![Open-Source Software][OSS Icon]](https://github.com/dsward2/macSVG) ![Freeware][Freeware Icon]
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle) - An app for creating precise, beautiful graphics.
